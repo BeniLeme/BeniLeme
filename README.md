@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeniLeme
-- 👀 I’m interested em Desenvolvedor Front-End
+- 👀 I’m interested em Desenvolvimento Front-End
 - 🌱 I’m currently learning curso ADS na faculdade impacta 
 - 💞️ I’m looking to collaborate on desenvolvimento de sistemas
 - 📫 How to reach me email: benitoconsolmagno@gmail.com
